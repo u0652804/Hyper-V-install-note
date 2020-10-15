@@ -25,6 +25,6 @@ Install Hyper-V for using Windows10 and visual studio
  
 3. Create a Virtual Machine with Hyper-V
  - 開始 > Hyper-v管理員 > right click on TPEA90095984 > 匯入虛擬機器 > 尋找資料夾 > 瀏覽 : select downloaded hype-V VM folder>
- 下一步... fin > right click on 匯入的虛擬機 > 設定 : 記憶體(建議8G up); 處理器(建議2up) 
- > right click on 匯入的虛擬機 > 連線
+ 下一步... fin > right click on 匯入的虛擬機 > 設定 : 記憶體(建議8G up); 處理器(建議2up) >
+ right click on 匯入的虛擬機 > 連線
  - ref : https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/quick-create-virtual-machine
