@@ -3,17 +3,11 @@ Install Hyper-V for using Windows10 and visual studio
 
 0. Download hype-v vm(win10 and visual studio)
 
- 中文
-
-  https://developer.microsoft.com/zh-tw/windows/downloads/virtual-machines/
+  - 中文 : https://developer.microsoft.com/zh-tw/windows/downloads/virtual-machines/
  
- 英文
- 
-  https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/
+  - 英文 : https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/
   
- license 
-  
-  https://windowsdev.azureedge.net/eulas/WindowsDeveloperVirtualMachineEula20151118.pdf
+  - license : https://windowsdev.azureedge.net/eulas/WindowsDeveloperVirtualMachineEula20151118.pdf
 
 1. enable VM in BIOS : 
  - lenovo ex: reboot > F1 to enter BIOS > enable VM > save and restart
